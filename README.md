@@ -11,7 +11,7 @@ To initialize your local repository using the Updraft trees, use a command like 
 
 For the 4.4 branch, use
 
-    repo init -u git://github.com/UpdraftDev/4.4.git
+    repo init -u git://github.com/UpdraftDev/android.git -b 4.4
 
 Then to sync up:
 
